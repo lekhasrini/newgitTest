@@ -1,0 +1,11 @@
+<form action= "indexAction.jsp" method="post">
+<fieldset>
+<label for="fname">Name:</label>
+<input type="text" name="name"><br>
+
+<label for="fname">Mobile Number</label>
+<input type="number" name="mobileNo"><br>
+
+<input type="submit" value="submit">
+</fieldset>
+</form>
